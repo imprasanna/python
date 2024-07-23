@@ -31,5 +31,4 @@ _Things to consider in above code for a cake class_
 
 - classes are defined using the class keyword
 - "\_\_init\_\_" function is a so-called "Magic Method". This function automatically gets called by Python once a new instance of a class is requested.
-- Python is designed to require a "self" parameter in the first position of the function signature so that classes get a way to refer to their own variables and functions.
--
+- Python is designed to require a "self" parameter in the first position of the function signature so that classe functions get a way to refer to their own variables and functions.
